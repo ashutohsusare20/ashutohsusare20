@@ -2,8 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💻 &nbsp;Deep Learning Engineer at Data Annotation Studio, Smart Mobility, TCS.\
-🌱 &nbsp;Working in the field of Deep learning and Computer vision.\
+💻 &nbsp;Assistant System Engineer, TCS Bangalore.\
+🌱 &nbsp;Working in the field of Machine learning, Deep learning and NLP.\
 💬 &nbsp;Feel free to reach out to me for projects, or just for some interesting discussion.
 
 <!--<img alt="Night Coding" src="https://github.com/ashutohsusare20/ashutohsusare20/blob/master/assets/Night-Coding.gif" align="right"/>-->
